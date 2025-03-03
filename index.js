@@ -1,13 +1,3 @@
-// sum(1, 2);
+console.log(a);
 
-// function sum(a, b) {
-//   console.log(a + b);
-// }
-
-// const sum = (a, b) => {
-//   return a + b;
-// };
-
-const sum = (a, b) => a + b;
-
-console.log(sum(1, 2));
+var a = 25;
